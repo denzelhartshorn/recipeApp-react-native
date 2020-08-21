@@ -1,8 +1,8 @@
 # recipeApp-react-native
 
-A React Native app that helps you find and organize your favorite recipes!  Features navigation, multiple pages, multiple components and styling.
+recipeApp-react-native is a React Native app that helps you find and organize your favorite recipes.  It has pages to display recipe categories and your favories as well as a screen to add filters too your search.  It was built with React Native, Javascript, and CSS.  It is compatible with Andriod and iOS and incorporates different screens, multiple components, styling and navigation.
 
-Technology Used: Javascipt, React Native
+Technology Used:  React Native, Javascript, CSS
 
 To Use:
 
