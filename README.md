@@ -6,9 +6,9 @@ Technology Used:  React Native, Javascript, CSS
 
 To Use:
 
-npm i
+Download expoCLI and access link:
 
-npm start
+https://exp.host/@dharts/recipeApp-reactnative
 
 ![IMG_2611](https://user-images.githubusercontent.com/50594925/89113060-ac1f5d00-d420-11ea-9a69-34312f8556ed.PNG)
 ![IMG_2612](https://user-images.githubusercontent.com/50594925/89113061-b0e41100-d420-11ea-8c6e-d0fc78361142.PNG)
