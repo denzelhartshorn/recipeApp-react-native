@@ -4,9 +4,9 @@ recipeApp-react-native is a React Native app that helps you find and organize yo
 
 Technology Used:  React Native, Javascript, CSS
 
-How To Use:
+How To Use
 
-Download expoCLI and access link:
+Download expoCLI and access link
 
 https://exp.host/@dharts/recipeApp-reactnative
 
